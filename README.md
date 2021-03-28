@@ -19,7 +19,7 @@
 
 [<img align="left" alt="silva | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/joaootavios)
 [<img align="left" alt="AbnerSilvaaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/joaootaviosge)
-[<img align="left" alt="aaaaa | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />(https://discord.gg/Silv)
+[<img align="left" alt="joaootavios | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discord.gg/JoaoOtavioS#4300)
 
 <br />
 
