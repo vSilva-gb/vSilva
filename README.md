@@ -12,7 +12,7 @@
 ## Sou iniciante, aprendiz de desenvolvedor e estudante!
 
 - 🌱 Atualmente estou aprendendo JS 😂
-- 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https), e estudando ao mesmo tempo!
+- 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https://google.com), e estudando ao mesmo tempo!
 - 📌 2020 Goals: Me aperfeiçoar ao máximo em JS e finalizar meu bot de Discord
 
 ### Fale comigo:
