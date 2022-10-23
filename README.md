@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente estou aprendendo JS 😂
 - 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https://galdino.app), e estudando ao mesmo tempo!
-- 📌 2022 Goals: Me aperfeiçoar ao máximo em JS e finalizar meu bot de Discord
+- 📌 Metas 2022: Me aperfeiçoar ao máximo em JS e finalizar meu bot de Discord
 
 ### Fale comigo:
 
