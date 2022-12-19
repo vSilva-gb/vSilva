@@ -13,7 +13,7 @@
 
 - 🌱 Atualmente trabalho com JS 😂
 - 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https://galdino.app)!
-- 📌 Metas 2023: Se aperfeiçoar em FrontEnd
+- 📌 Metas 2023: Se aperfeiçoar em Frontend
 
 ### Fale comigo:
 
