@@ -12,7 +12,7 @@
 ## Sou desenvolvedor e estudante!
 
 - 🌱 Atualmente trabalho com JS 😂
-- 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https://galdino.app), e estudando ao mesmo tempo!
+- 🔭 Eu atualmente estou trabalhando no meu bot de Discord.js [Galdino 🌎](https://galdino.app)!
 - 📌 Metas 2023: Aprender frontend
 
 ### Fale comigo:
