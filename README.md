@@ -2,9 +2,6 @@
 
 <a href="https://twitter.com/AbnerSilvaaa">
   <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-<a href="https://discordapp.com/users/238458279888420864">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
