@@ -1,6 +1,6 @@
 ### Oi, tudo bem? Eu me chamo Abner Silva 👋
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)]([https://www.linkedin.com/in/marcus-konflanz/](https://www.linkedin.com/in/abner-silva-2ba899265/))
 
 ## Sou desenvolvedor e estudante!
 
@@ -10,7 +10,6 @@
 
 ### Fale comigo:
 
-[<img align="left" alt="silva | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/)
 [<img align="left" alt="AbnerSilvaaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/)
 [<img align="left" alt="silva | Discord" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />](https://discordapp.com/users/238458279888420864)
 
