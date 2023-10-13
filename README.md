@@ -1,7 +1,6 @@
 ### Oi, tudo bem? Eu me chamo Abner Silva 👋
 
 <br />
-<br />
 
 ## Sou desenvolvedor e estudante!
 
