@@ -1,6 +1,5 @@
 ### Oi, tudo bem? Eu me chamo Abner Silva 👋
 
-
 <br />
 <br />
 
