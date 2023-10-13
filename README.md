@@ -29,5 +29,4 @@
 <br />
 
 ---
-
-<img align="left" alt="JoaoOtavioS Github Stats" src="https://github-readme-stats.vercel.app/api?username=vSilva-gb&show_icons=true&hide_border=true" />
+![vSilva-gb GitHub Stats]((https://github-readme-stats.vercel.app/api?username=vSilva-gb&show_icons=true&hide_border=true]))
