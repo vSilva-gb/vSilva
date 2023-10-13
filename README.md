@@ -1,7 +1,5 @@
 ### Oi, tudo bem? Eu me chamo Abner Silva 👋
 
-<a href="https://twitter.com/AbnerSilvaaa">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 
 <br />
 <br />
