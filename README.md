@@ -29,4 +29,4 @@
 <br />
 
 ---
-![vSilva-gb GitHub Stats]((https://github-readme-stats.vercel.app/api?username=vSilva-gb&show_icons=true&hide_border=true]))
+![vSilva-gb GitHub stats](https://github-readme-stats.vercel.app/api?username=vSilva-gb&theme=dark&show_icons=true&hide_border=true)
